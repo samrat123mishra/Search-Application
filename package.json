@@ -1,0 +1,14 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "this is a simple apllication of word search program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samrat mishra",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
